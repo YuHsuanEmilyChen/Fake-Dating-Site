@@ -1,0 +1,35 @@
+
+
+
+.carousel-caption h1 {
+  font-size: 80px;
+  color: #D6659C;
+  
+} 
+
+.carousel-item img {
+  height: 92vh;
+  object-fit: cover;
+}
+
+
+.bi-suit-heart {
+  color: #DB2344; 
+  font-size: 1rem;
+  
+}
+
+.btn > i {
+  font-size: 1.2rem
+}
+
+.page-link {
+  color: gray;
+  font-weight: bold;
+
+}
+
+.page-link:hover{
+  color: rgb(15, 15, 13);
+  
+}
